@@ -68,4 +68,4 @@ CONTENT WRITER AT TIMES,MULTI-LINGUAL
 			
  ### Profile Views :<br>
  
-  <img src="https://profile-counter.glitch.me/sanchitpasricha/count.svg" />
+  <img src="https://profile-counter.glitch.me/Anshluthra1/count.svg" />

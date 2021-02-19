@@ -8,6 +8,9 @@ STUDENT
 I'M AN AMBIVERT|A TECH GEEK, PASSIONATE ABOUT NATURE, LIFE, CARS , HILLS AND A FREAK GLOBETROTTER
 I DO CODE FOR CASH, AND FOR THAT SMILE ON MY FACE!
 CONTENT WRITER AT TIMES,MULTI-LINGUAL
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/Anshluthra1)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/Anshluthra/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/anshluthra)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/anshluthraa1/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/Anshluthra34)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='40'>](anshluthra.herokuapp.com)  
+
+
 
 ## ⚡ Languages/Tech:
 <p>	

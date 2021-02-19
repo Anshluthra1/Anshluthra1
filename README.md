@@ -76,6 +76,3 @@ CONTENT WRITER AT TIMES,MULTI-LINGUAL
   
   <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=Anshluthra1&layout=compact&theme=material-palenight" />
 </a>
-<a href="https://github.com/Anshluthra1/Anshluthra1.github.io">
-  <img align="center" src="https://github-readme-stats.Anshluthra1.vercel.app/api/pin/?username=Anshluthra1&repo=Anshluthra1.github.io&theme=material-palenight" />
-</a

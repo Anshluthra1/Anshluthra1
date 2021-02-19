@@ -69,3 +69,6 @@ CONTENT WRITER AT TIMES,MULTI-LINGUAL
  ### Profile Views :<br>
  
   <img src="https://profile-counter.glitch.me/Anshluthra1/count.svg" />
+<a href="https://github.com/Anshluthra1/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=Anshluthra1&show_icons=true&include_all_commits=true&theme=material-palenight" alt="Ansh's github stats" />
+</a>

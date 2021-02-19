@@ -36,26 +36,33 @@ CONTENT WRITER AT TIMES,MULTI-LINGUAL
  - CYBER SECURITY  
  - Cloud Computing
 
-##  👀 What I Am Learning rn:
+##  👀 LEARNINGS AND PURSUINGS
 
-- Currently learning Data structures and Algorithms in C.
-- Polishing previously acquired skills.
-- Taking courses on Coursera and codingNinjas.
-- I love to talk about Science and other knowledgeable stuff. 
+- Currently an BTECH ✌️ CSE(1STY)  ALUMNI AT CHITKARA UNIVERISTY 🏫 
+- Uptook "Introduction to CLOUD ⛅️ COMPUTING BY IBM" on Edx
+- Part of the honoury "cs-50 introduction to the COMPUTER SCIENCE by the HARVARD UNIVERISTY"
+- Also a part of the Introduction to web technologies🌏 by Stanford University-online mode"
+- part of the industrial training in CYBER🧠👣 security BY INMOVIDU AND E-CELL IITK
+- Participated in E-CONCLAVE 2021 organized by IIT-BOMBAY
+- Also a part of the Introduction to GAME-DEVELOPMENT✨ by Stanford University-online mode"
 
-##  💬 Where to find me:
+
+##  💬 HMU:
 
  <a href="https://www.linkedin.com/in/sanchit-pasricha/"><img src="https://img.shields.io/badge/Sanchit Pasricha-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" ></a> 
- <a href="https://twitter.com/Sanchit_2908"><img src="https://img.shields.io/badge/Sanchit Pasricha-%230077B5.svg?&style=for-the-badge&logo=Twitter&logoColor=white" ></a> 
+ <a href="https://img.shields.io/twitter/url?style=social&url=ANSH%20LUTHRA" ></a> 
  <a href="mailto:sanchit0229@gmail.com"><img src="https://img.shields.io/badge/sanchit0229@gmail.com-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white"></a>
  <a  href="https://www.instagram.com/p.sanchit_pvt.exe/"><img src="https://img.shields.io/badge/@p.sanchit_pvt.exe-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white"></a>
 
-##  💻 Tech I work with:
+##  💻 gadgets/ tech I work with:
 
- - IDE: PyCharm
- - Text Editors: VS Code, Sublime Text, Brackets
+ - IDE: PyCharm 🤖
+ - Text Editors: ATOM🔥 , Sublime Text☠️, Brackets🤡,notepad++ 📝  
  - Terminal: Powershell
- - HP notebook i5 16GB 2TB(hdd) 256(ssd) ✨
+ - 💻 MACBOOK PRO-2020- I5 -13.3INCH-256SSD
+ - IBALL MYSTIC WIRELESS ⌨️ KEYBOARD AND 🐭 MOUSE
+ - CIRCLE ⭕️ HUB
+ - PORTRONICS MUFFS M HEADPHONES 🎧 -220
 			
  ### Profile Views :<br>
  

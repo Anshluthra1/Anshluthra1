@@ -34,7 +34,8 @@ CONTENT WRITER AT TIMES,MULTI-LINGUAL
  - Git
  - CLOUD COMPUTING
  - CYBER SECURITY  
- - Cloud Computing
+ - Content Writing'
+ -MS-EXCEL AND POWERPOINT
 
 ##  👀 LEARNINGS AND PURSUINGS
 
@@ -49,9 +50,9 @@ CONTENT WRITER AT TIMES,MULTI-LINGUAL
 
 ##  💬 HMU:
 
- <a href="https://www.linkedin.com/in/sanchit-pasricha/"><img src="https://img.shields.io/badge/Sanchit Pasricha-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" ></a> 
- <a href="https://img.shields.io/twitter/url?style=social&url=ANSH%20LUTHRA" ></a> 
- <a href="mailto:sanchit0229@gmail.com"><img src="https://img.shields.io/badge/sanchit0229@gmail.com-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white"></a>
+ <a href="https://www.linkedin.com/in/ansh-luthra-016452117//"><img src="https://img.shields.io/badge/Sanchit Pasricha-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" ></a> 
+ <a href="https://twitter.com/Anshluthra34"><img src="https://img.shields.io/twitter/url?style=social&url=https%3A%2F%2Ftwitter.com%2FAnshluthra34"></a> 
+ <a href="mailto:anshluthra002.gmail.com"><img src="https://img.shields.io/badge/sanchit0229@gmail.com-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white"></a>
  <a  href="https://www.instagram.com/p.sanchit_pvt.exe/"><img src="https://img.shields.io/badge/@p.sanchit_pvt.exe-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white"></a>
 
 ##  💻 gadgets/ tech I work with:

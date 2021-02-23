@@ -1,6 +1,6 @@
 <h1 style="font-family: 'JetBrains Mono'"> 👋 Hi There ! </h1>
 <h3>Hey! This is ANSH LUTHRA </h3>
-(https://user-images.githubusercontent.com/76260663/108869278-0c742700-761d-11eb-9228-4dc99649cb0a.png)
+https://user-images.githubusercontent.com/76260663/108870716-5dd0e600-761e-11eb-9321-60add48b52f8.mov
 
 CODE 👨‍💻| FOOD🍟🌭| SLEEP 😴 💤 | REPEAT♐️♋️ 
 

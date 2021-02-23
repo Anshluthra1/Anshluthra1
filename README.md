@@ -1,9 +1,8 @@
 <h1 style="font-family: 'JetBrains Mono'"> 👋 Hi There ! </h1>
 <h3>Hey! This is ANSH LUTHRA </h3>
-https://user-images.githubusercontent.com/76260663/108870716-5dd0e600-761e-11eb-9321-60add48b52f8.mov
 
 CODE 👨‍💻| FOOD🍟🌭| SLEEP 😴 💤 | REPEAT♐️♋️ 
-
+<img src="ss.jpg">
 ANSH'S LIFE
 STUDENT
 I'M AN AMBIVERT|A TECH GEEK, PASSIONATE ABOUT NATURE, LIFE, CARS , HILLS AND A FREAK GLOBETROTTER

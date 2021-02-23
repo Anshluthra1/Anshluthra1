@@ -1,7 +1,6 @@
 <h1 style="font-family: 'JetBrains Mono'"> 👋 Hi There ! </h1>
 <h3>Hey! This is ANSH LUTHRA </h3>
-
-<iframe width="560" height="315" src="https://www.youtube.com/embed/TRzbtTmy_GM" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<img src="Screenshot 2021-02-23 at 9.10.41 PM">
 
 CODE 👨‍💻| FOOD🍟🌭| SLEEP 😴 💤 | REPEAT♐️♋️ 
 

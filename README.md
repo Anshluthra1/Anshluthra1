@@ -2,7 +2,7 @@
 <h3>Hey! This is ANSH LUTHRA </h3>
 
 CODE 👨‍💻| FOOD🍟🌭| SLEEP 😴 💤 | REPEAT♐️♋️ 
-<img src="ss.jpg">
+<img src="ss.png">
 ANSH'S LIFE
 STUDENT
 I'M AN AMBIVERT|A TECH GEEK, PASSIONATE ABOUT NATURE, LIFE, CARS , HILLS AND A FREAK GLOBETROTTER
